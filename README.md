@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ale-423
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning things
+- 🌱 I’m currently too bored to learn
 - 💞️ I’m looking to collaborate? No
 - 📫 How to reach me, u just don't
 
