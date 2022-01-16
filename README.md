@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently too bored to learn
 - 💞️ I’m looking to collaborate? No
-- 📫 How to reach me, u just don't
+- 📫 How to reach me, u don't
 
 <!---
 ale-423/ale-423 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
